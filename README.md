@@ -6,10 +6,9 @@ First one is player gets an image of a worldwide-famous or specifically local-fa
 ## Second Idea
 Second one is player can move around the city given. After some walking around, he/she should submit the guess but after guessing game won't end. Player should guess that region's meal given as blank to fill.
 Also player can request hints to guess easily. 
-Decide phase will take a little time but at least these ideas' requirements are not far from each other. So the coding can make me easily choose one of them.
 
 # Front-End Requirements
-
+Decide phase will take a little time but at least these ideas' requirements are not far from each other. So the coding can make me easily choose one of them. First and most important part is the map. There must be a moveable interactive map. Google Maps API or Openlayers and React.js can be useful while coding. In general, main page would probably look like two parts. One part will have the given images, blanks to fill and other page-based datas(last earned points, highest score). Other part will have the interactive map and in-game cursor to move or make a guess and submit button.
 
 
 
