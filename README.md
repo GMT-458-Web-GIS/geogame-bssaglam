@@ -11,4 +11,4 @@ Travel-themed quiz designed to test players' knowledge of countries, famous pers
 
 # Main Page Visualization
 
-![alt text](https://github.com/bssaglam/geogame-bssaglam/blob/main/screenshot-main.jpg?raw=true)
+![alt text](https://github.com/bssaglam/geogame-bssaglam/blob/main/screenshot-main.png?raw=true)
