@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THE WANDERER</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="logo">WANDERER.</div>
+
+  <div class="container">
+    <div class="main-clue">
+      <h1>TRAVEL QUIZ</h1>
+      <h2 id="clue-title">You should taste it</h2>
+      <img id="main-clue-image" src="" alt="Clue Image" />
+      
+      <div class="navigation-buttons">
+        <button id="previous-clue" disabled>Nah I'd go back</button>
+        <button id="next-clue">Give me a Clue</button>
+      </div>
+      
+      <input type="text" id="user-answer" placeholder="Make a Guess!" />
+      <button id="submit-answer">Guess!</button>
+      <button id="pass-question">Skip Question</button>
+      <p id="feedback"></p>
+    </div>
+
+    <div class="scoreboard">
+      <div id="stage-progress"></div>
+      <h2>Scoreboard</h2>
+      <p>Score: <span id="score">0</span></p>
+      <p>Round: <span id="round">1</span></p>
+      <div id="flag-container"></div>
+      <div class="fun-fact-container">
+        <h3>Random Fact:</h3>
+        <p id="fun-fact-text">Discover something amazing about this country!</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
