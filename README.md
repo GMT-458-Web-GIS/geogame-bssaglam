@@ -62,6 +62,8 @@ These event handlers are key in controlling the user interaction with the game, 
 ### Managing Game State
 * Closures help maintain and update the game state (like currentClueIndex, score, round, and currentStage) throughout the game without having to pass these variables explicitly between functions.
 
+![screenshot](images/feedback.png)
+
 ### Storing Feedback and Sound Preferences
 * Closures also help in maintaining persistent feedback or sound across different parts of the game.
 
