@@ -79,7 +79,8 @@ I set up event listeners to detect user actions (such as clicking buttons) and t
 I also interact with the DOM by dynamically updating the styles of elements, particularly to give visual feedback to me. For example:
 * Changing Feedback Style: When the answer is correct or incorrect, I modify the color and opacity of the feedback element to provide visual cues
 
-
+### What I've learned from AI
+In this project, I can definitely say that I must work as modular as I can. I mean if the codes are not mixed or intertwined, I can work more fluently while coding. Because the duplicates creates errors for iterations and overwrite scenarios. Modular codes create lesser errors and I don't have to debug the code many times. Besides the back-end development, I also learned to work with a useful colour palette that gives an aesthetic vision in our games or websites. Harmony of the colours creates a better first-view.
 
 ## AI-Interactions and References/Links
 
