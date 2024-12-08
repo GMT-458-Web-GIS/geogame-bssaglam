@@ -32,7 +32,7 @@ Sound Effects: Correct and incorrect sounds enhance the experience, providing au
 
 ## Event Handlers and logical descriptions
 
-#### submitButton.addEventListener("click", checkAnswer)
+![screenshot](images\submit.png)
 Purpose: This event handler is triggered when the user clicks the "Submit Answer" button.
 Functionality: It checks the user's input (the country they think is associated with the clue) against the correct answer (the actual country). If the answer is correct, it updates the score, provides feedback, plays a "correct" sound, and moves to the next clue. If the answer is incorrect, it plays a "wrong" sound and displays incorrect feedback, prompting the user to try again.
 Flow:
@@ -40,13 +40,15 @@ Flow:
 * Compares it with the correct answer.
 * Displays feedback based on the result.
 * Updates the score and proceeds to the next clue after a delay.
-#### passButton.addEventListener("click", passQuestion)
+
+![screenshot](images\pass.png)
 Purpose: This event handler is activated when the user clicks the "Pass Question" button.
 Functionality: When the user chooses to skip the current clue, this event handler handles the skip logic by displaying a message indicating the question was skipped and moves to the next clue.
 Flow:
 * Displays feedback saying "Question skipped!".
 * Moves to the next clue after a short delay, ensuring the game continues without interruption.
-#### nextClueButton.addEventListener("click", showNextClue)
+
+![screenshot](images\next.png)
 Purpose: This event handler is triggered when the user clicks the "Next Clue" button.
 Functionality: It allows the user to proceed to the next stage of the current clue (from dish to person or from person to place). If the current stage is not the last one (place), it advances the clue by incrementing the currentStage variable and updates the display to show the next piece of the clue.
 Flow:
