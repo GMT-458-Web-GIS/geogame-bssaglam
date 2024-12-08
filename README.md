@@ -28,6 +28,10 @@ Sound Effects: Correct and incorrect sounds enhance the experience, providing au
 * Diverse Content: A collection of clues (countries, dishes, landmarks, people, and fun facts) should be sufficiently diverse and informative, ensuring players learn while playing.
 * Flag Images: Flag images for each country should be available to display after correct answers
 
+
+
+## Event Handlers and logical descriptions
+
 #### submitButton.addEventListener("click", checkAnswer)
 Purpose: This event handler is triggered when the user clicks the "Submit Answer" button.
 Functionality: It checks the user's input (the country they think is associated with the clue) against the correct answer (the actual country). If the answer is correct, it updates the score, provides feedback, plays a "correct" sound, and moves to the next clue. If the answer is incorrect, it plays a "wrong" sound and displays incorrect feedback, prompting the user to try again.
