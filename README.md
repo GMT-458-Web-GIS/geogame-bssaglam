@@ -81,13 +81,11 @@ I also interact with the DOM by dynamically updating the styles of elements, par
 
 
 
-## *** AI-Interactions and References/Links ***
-
-
-[ChatGPT to discuss and improve the game ]([https://pages.github.com/](https://chatgpt.com/c/6755b713-c790-8006-a440-46c8a710c5da))
-
+## AI-Interactions and References/Links
 
 [<img src="images/chatgpt.png">](https://chatgpt.com/c/6755b713-c790-8006-a440-46c8a710c5da)
 
+#### ChatGPT conversation link
 
+[Getting the HQ Images](https://unsplash.com)
 
