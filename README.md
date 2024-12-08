@@ -62,11 +62,19 @@ These event handlers are key in controlling the user interaction with the game, 
 ### Managing Game State
 * Closures help maintain and update the game state (like currentClueIndex, score, round, and currentStage) throughout the game without having to pass these variables explicitly between functions.
 
-![screenshot](images/feedback.png)
 
 ### Storing Feedback and Sound Preferences
 * Closures also help in maintaining persistent feedback or sound across different parts of the game.
 
+![screenshot](images/feedback.png)
 
 
+## DOM-Interactions
 
+### Event Listeners
+I set up event listeners to detect user actions (such as clicking buttons) and trigger the corresponding game logic. For example:
+* Button Clicks: I add event listeners to buttons that allow the user to interact with the game. These buttons are used for actions like submitting an answer, passing a question, or navigating between clues
+
+### Style Changes
+I also interact with the DOM by dynamically updating the styles of elements, particularly to give visual feedback to me. For example:
+* Changing Feedback Style: When the answer is correct or incorrect, I modify the color and opacity of the feedback element to provide visual cues
