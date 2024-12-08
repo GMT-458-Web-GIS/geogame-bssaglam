@@ -78,3 +78,15 @@ I set up event listeners to detect user actions (such as clicking buttons) and t
 ### Style Changes
 I also interact with the DOM by dynamically updating the styles of elements, particularly to give visual feedback to me. For example:
 * Changing Feedback Style: When the answer is correct or incorrect, I modify the color and opacity of the feedback element to provide visual cues
+
+
+
+*** ## AI-Interactions and References/Links ***
+
+
+[ChatGPT to discuss and improve the game ]([https://pages.github.com/](https://chatgpt.com/c/6755b713-c790-8006-a440-46c8a710c5da))
+
+[![name](link to image on GH)](link to your URL)
+
+
+
