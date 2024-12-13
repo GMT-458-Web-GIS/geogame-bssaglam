@@ -88,7 +88,7 @@ In this project, I can definitely say that I must work as modular as I can. I me
 
 #### Click the symbol below to get the ChatGPT conversation link
 
-[<img src="images/chatgpt.png">](https://chatgpt.com/c/6755b713-c790-8006-a440-46c8a710c5da)
+[<img src="images/chatgpt.png">](https://chatgpt.com/share/675c70f2-faac-8006-befb-b02c37399746)
 
 
 [Getting the HQ Images](https://unsplash.com)
